@@ -13,7 +13,9 @@ https://einalem4.github.io/password-generator/
 
 ## Preview
 
-<img src = "develop/password.png">
+
+
+![password generator image](Develop/password.png)
 
 ## Contribution
 Melanie Arnold
