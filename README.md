@@ -13,7 +13,7 @@ https://einalem4.github.io/password-generator/
 
 ## Preview
 
-![alt text](develop\images\passwordgenerator.png)
+![alt text](develop\passwordgenerator.png)
 
 ## Contribution
 Melanie Arnold
